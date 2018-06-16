@@ -1,6 +1,6 @@
 /**
- * FileName : {@link MainFailTest}.java
- * Created : 2018. 3. 12. 오전 11:08:01
+ * FileName : {@link Tile}.java
+ * Created : 2018. 3. 20. 오후 1:15:05
  * Author : jeonghyun.kum
  * Summary :
  * Copyright (C) 2018 Formal Works Inc. All rights reserved.
@@ -9,14 +9,7 @@
  */
 package com.formalworks.question.algorithm1.jeonghyunkum;
 
-import org.junit.Test;
 
-public class MainTest {
-
-	@Test
-	public void testTodo() {
-
-		Main.main(new String[] { "1", "13" });
-	}
-
+public class Tile {
+	
 }
